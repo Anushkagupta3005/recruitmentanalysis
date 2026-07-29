@@ -1,0 +1,70 @@
+JobRoleKey,JobTitle,DepartmentKey,Seniority,Location
+1,Junior Software Engineer,1,Junior,Chennai
+2,Mid Software Engineer,1,Mid,Bangalore
+3,Senior Software Engineer,1,Senior,Bangalore
+4,Junior Backend Engineer,1,Junior,Chennai
+5,Mid Backend Engineer,1,Mid,Remote - India
+6,Senior Backend Engineer,1,Senior,Hyderabad
+7,Junior Frontend Engineer,1,Junior,Hyderabad
+8,Mid Frontend Engineer,1,Mid,Hyderabad
+9,Senior Frontend Engineer,1,Senior,Chennai
+10,Junior Data Engineer,1,Junior,Bangalore
+11,Mid Data Engineer,1,Mid,Chennai
+12,Senior Data Engineer,1,Senior,Chennai
+13,Junior DevOps Engineer,1,Junior,Gurgaon
+14,Mid DevOps Engineer,1,Mid,Bangalore
+15,Senior DevOps Engineer,1,Senior,Gurgaon
+16,Junior Sales Development Rep,2,Junior,Pune
+17,Mid Sales Development Rep,2,Mid,Bangalore
+18,Senior Sales Development Rep,2,Senior,Bangalore
+19,Junior Account Executive,2,Junior,Bangalore
+20,Mid Account Executive,2,Mid,Hyderabad
+21,Senior Account Executive,2,Senior,Hyderabad
+22,Junior Sales Manager,2,Junior,Gurgaon
+23,Mid Sales Manager,2,Mid,Gurgaon
+24,Senior Sales Manager,2,Senior,Bangalore
+25,Junior Marketing Specialist,3,Junior,Gurgaon
+26,Mid Marketing Specialist,3,Mid,Hyderabad
+27,Senior Marketing Specialist,3,Senior,Chennai
+28,Junior Content Strategist,3,Junior,Chennai
+29,Mid Content Strategist,3,Mid,Chennai
+30,Senior Content Strategist,3,Senior,Gurgaon
+31,Junior Growth Marketer,3,Junior,Pune
+32,Mid Growth Marketer,3,Mid,Hyderabad
+33,Senior Growth Marketer,3,Senior,Pune
+34,Junior Financial Analyst,4,Junior,Gurgaon
+35,Mid Financial Analyst,4,Mid,Remote - India
+36,Senior Financial Analyst,4,Senior,Bangalore
+37,Junior Accountant,4,Junior,Hyderabad
+38,Mid Accountant,4,Mid,Chennai
+39,Senior Accountant,4,Senior,Pune
+40,Junior FP&A Analyst,4,Junior,Remote - India
+41,Mid FP&A Analyst,4,Mid,Remote - India
+42,Senior FP&A Analyst,4,Senior,Hyderabad
+43,Junior Product Manager,5,Junior,Hyderabad
+44,Mid Product Manager,5,Mid,Remote - India
+45,Senior Product Manager,5,Senior,Bangalore
+46,Junior Product Analyst,5,Junior,Bangalore
+47,Mid Product Analyst,5,Mid,Pune
+48,Senior Product Analyst,5,Senior,Bangalore
+49,Junior UX Designer,5,Junior,Remote - India
+50,Mid UX Designer,5,Mid,Remote - India
+51,Senior UX Designer,5,Senior,Gurgaon
+52,Junior Support Associate,6,Junior,Remote - India
+53,Mid Support Associate,6,Mid,Bangalore
+54,Senior Support Associate,6,Senior,Chennai
+55,Junior Support Specialist,6,Junior,Pune
+56,Mid Support Specialist,6,Mid,Gurgaon
+57,Senior Support Specialist,6,Senior,Bangalore
+58,Junior CS Team Lead,6,Junior,Pune
+59,Mid CS Team Lead,6,Mid,Bangalore
+60,Senior CS Team Lead,6,Senior,Gurgaon
+61,Junior HR Generalist,7,Junior,Remote - India
+62,Mid HR Generalist,7,Mid,Chennai
+63,Senior HR Generalist,7,Senior,Gurgaon
+64,Junior Recruiter,7,Junior,Remote - India
+65,Mid Recruiter,7,Mid,Gurgaon
+66,Senior Recruiter,7,Senior,Hyderabad
+67,Junior People Ops Analyst,7,Junior,Chennai
+68,Mid People Ops Analyst,7,Mid,Bangalore
+69,Senior People Ops Analyst,7,Senior,Bangalore
